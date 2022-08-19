@@ -1,0 +1,154 @@
+
+    table{
+        margin:0px;
+        color: #E0D0A4; 
+        text-align: center; 
+    }
+
+
+    tr{
+        color: aliceblue;
+        background-repeat: no-repeat;
+    }
+
+
+    #trheader{
+        background-image: url(image/Group\ 10.jpg);
+        height: 160px;
+    }
+
+    #trmenu{
+        background-image: url(image/Rectangle\ 16\ \(1\).jpg);
+        height: 50px; 
+    }
+
+    #trbody{
+        background-image: url(image/Group\ 9.jpg);
+    }
+
+    #trfooter{
+        background-image: url(image/Rectangle\ 19\ \(1\).jpg);
+    }
+
+
+    body{
+        margin: 0px;
+    }
+
+    a{
+        
+        font-size: 18px;
+        text-decoration: none;
+        display: block;
+        color: #E0D0A4;
+        text-transform: capitalize;
+        font-weight: 550;
+        width: 135px;
+        height: 25px;
+        line-height: 25px;
+        box-shadow: 5px 5px 5px rgb(87, 84, 84);
+        border-radius: 10px;
+        border-style: groove;
+        border-color: #cab98a;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-left: 0px;
+        margin-right: 25px;
+    }
+
+    #icon{
+        width: 50px;
+    }
+
+    h1{
+        font-size: 50px;
+        color: #fdf3d8;
+        font-family: geraldin;
+        margin: 10px;
+        text-transform: capitalize;
+    }
+
+
+    #h1{
+        color: #E0D0A4;
+        text-align: right;
+        margin-top: 0px;
+        margin-bottom:0px;
+        margin-right: 50px;
+        font-size: 45px;
+        font-family: geraldin;
+        text-transform: capitalize;
+
+    }
+    #h2{
+        color: #E0D0A4;
+        text-align: right;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-right: 410px;
+        font-size: 50px;
+        font-family: geraldin;
+        text-transform: capitalize;
+    }
+
+   
+    p{
+        font-size: 17px;
+        text-align: center;
+        width: 1400px;
+        line-height: 22px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-transform: capitalize;
+    }
+
+    img{
+        border-style: double;
+        border-color: #ffebb4;
+    }
+    
+    #img01{
+        margin: 50px;
+        
+    }
+    #img02{
+        margin: 33px;
+        
+    }
+    #img03{
+        margin: 34px;
+        
+
+    }
+    #img04{
+        margin: 25px;
+        
+    }
+    #img05{
+        margin: 35px;
+        
+    }
+    #img06{
+        margin: 35px;
+        
+    }
+
+    #aup{
+        background-color: #E0D0A4;
+        color: #11412E;
+        
+    }
+
+    hr{
+        width: 1400px;
+        size: 3;
+        color: #ffb9b9;
+    }
+
+    @font-face {
+        font-family: geraldin;
+        src: url(font02/GeraldinePersonalUseItalic-PK12m.woff);
+    }
+
+    @font-face {
+        font-family: iran;
+        src: url(font02/IRANSans-web.woff);
+    }
